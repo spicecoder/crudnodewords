@@ -1,0 +1,31 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "fir iteration for terminal app -generate context yaml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spicecoder/crudnodewords.git"
+  },
+  "keywords": [
+    "words",
+    "context"
+  ],
+  "author": "ppal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spicecoder/crudnodewords/issues"
+  },
+  "homepage": "https://github.com/spicecoder/crudnodewords#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "mysql": "^2.18.0",
+    "req-flash": "0.0.3"
+  }
+}
