@@ -1,1 +1,3 @@
 # crudnodewords
+
+interactive cli
